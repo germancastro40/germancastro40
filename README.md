@@ -1,0 +1,5 @@
+- 👋 Hi, I’m German Castro  
+- 👀 I’m interested i el desarrollo web, tanto el front end como el backend
+- 🌱 I’m currently  aprendiendo node, mysql y javascript
+- 💞️ I’m looking to collaborate  enn cualquer proyecto que me pueda ayudar a aumentar mi conocimiento y mi experi en el desarrollo web 
+- 📫 Me pueden contactar en Facebook como https://www.facebook.com/germandavid.castrobonilla, tambien por correo electronico como germancastro40@hotmail.com o germancastr45@gmail.com
