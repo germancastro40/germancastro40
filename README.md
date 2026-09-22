@@ -1,5 +1,5 @@
 - 👋 Hi, I’m German Castro  
 - 👀 I’m interested in frontend and backend devolper
-- 🌱 I’m currently  learning node, mysql, java and angular
+- 🌱 I’m working in node,nest,mysql,java and angular
 - 💞️ I’m looking to collaborate in any project that give me expirience in web devolper
 - 📫 Contact me on email like: germancastro40@hotmail.com or germancastr45@gmail.com
